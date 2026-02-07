@@ -1,0 +1,1 @@
+这是一个带有sshd的ubuntu cuda镜像默认密码是12345678用户是root
